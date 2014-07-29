@@ -1,0 +1,10 @@
+usuarios
+admin
+pass
+password
+users
+user
+owner
+own
+senha
+senhas
